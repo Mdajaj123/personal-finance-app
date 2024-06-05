@@ -1,4 +1,4 @@
-Dom  
+# Dom  
 
   1.It is Actual representation of webpage            
  
@@ -9,7 +9,7 @@ Dom
   4.Sutable for static web page and simple applicattion        
     
     
-Virtua dom
+# Virtua dom
 
   1. it is light weight copy of dom
   2. Re-render the only change part efficiently
