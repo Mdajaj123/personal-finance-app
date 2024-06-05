@@ -1,12 +1,13 @@
-Dom                                          
-  1.It is Actual representation of             
-    webpage
-  2.Re-render the entire page when             
-    update is occur
-  3.Can be slower especially with frequent       
-    update
-  4.Sutable for static web page and simple       
-    applicattion   
+Dom  
+
+  1.It is Actual representation of webpage            
+ 
+  2.Re-render the entire page when update is occur            
+   
+  3.Can be slower especially with frequent update     
+    
+  4.Sutable for static web page and simple applicattion        
+    
     
 Virtua dom
 
